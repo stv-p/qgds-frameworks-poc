@@ -1,0 +1,12 @@
+{
+  "name": "qgds-frameworks-poc",
+  "version": "0.0.1",
+  "description": "Explorative space for framework wrappers consuming Queensland Government Design System (QGDS) components",
+  "license": "ISC",
+  "author": "Steve Pegg",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
